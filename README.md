@@ -27,4 +27,8 @@ SCREENSHOTS
 
 INSTALLATION LINK
 
-APK Link: 
+APK Link: https://drive.google.com/file/d/1CZbWehSwb00mtVi_bUGmYBf9bp6W7XqD/view?usp=sharing
+
+Credentials
+iqama number: 013416546
+Password: Admin@123
