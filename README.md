@@ -11,6 +11,15 @@ SYSTEM FEATURES
 2. Attendance
 3. Leave Request
 4. Advance Management
+5. Multi-Language
+
+TECHNICALITIES/TOOLS USED
+1. Flutter
+2. Cubit State Management
+3. MVVM Design Pattern
+4. GraphQL APIs
+5. .NET Backend
+6. IP Restriction
 
 SCREENSHOTS
 
